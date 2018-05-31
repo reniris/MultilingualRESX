@@ -1,0 +1,2 @@
+# MultilingualRESX
+多言語文字列リソース切り替えライブラリ
